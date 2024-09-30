@@ -8,7 +8,7 @@ http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:1 tvg-id="NOW TV HD" tvg-logo="" group-title="Ulusal",NOW TV HD
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
-http://stream3x.net:5255/tolga-kanka/te6EfsRqQX/493.ts
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 #EXTINF:1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
